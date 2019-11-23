@@ -1,4 +1,5 @@
-package Chapter01;/*
+package Chapter01;
+/*
     Demonstrate the for loop.
 
     Call this file Chapter01.ForDemo.java

@@ -1,4 +1,5 @@
-package Chapter01;/*
+package Chapter01;
+/*
     This demonstrates a variable.
 
     Call this file Chapter01.Example2.java

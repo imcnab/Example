@@ -1,4 +1,5 @@
-package Chapter02;/*
+package Chapter02;
+/*
     Compute the number of cubic inches
     in 1 cubic mile
  */

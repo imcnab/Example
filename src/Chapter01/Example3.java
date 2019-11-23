@@ -1,4 +1,5 @@
-package Chapter01;/*
+package Chapter01;
+/*
     This program illustrates the differences
     between int and double.
  */

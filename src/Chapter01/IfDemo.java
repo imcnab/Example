@@ -1,4 +1,5 @@
-package Chapter01;/*
+package Chapter01;
+/*
     Demonstrate the if.
 
     Call this file Chapter01.IfDemo.java.

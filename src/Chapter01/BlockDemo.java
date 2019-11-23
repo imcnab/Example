@@ -1,4 +1,6 @@
-package Chapter01;/*
+package Chapter01;
+
+/*
     Demonstrate a block of code.
 
     Call this file Chapter01.BlockDemo.java.

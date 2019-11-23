@@ -1,4 +1,5 @@
-package Chapter01;/*
+package Chapter01;
+/*
     This is a simple Java program.
 
     Call this file Chapter01.Example.java
