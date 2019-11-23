@@ -1,9 +1,9 @@
-/*
+package Chapter01;/*
     Try This 1-1
 
     This program converts gallons to litres.
 
-    Call this program GalToLit.java
+    Call this program Chapter01.GalToLit.java
  */
 
 public class GalToLit {

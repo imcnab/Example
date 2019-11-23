@@ -1,10 +1,10 @@
-/*
+package Chapter01;/*
     Try This 1-2
 
     This program displays a conversion
     table of gallons to litres.
 
-    Call this program "GalToLitTable.java".
+    Call this program "Chapter01.GalToLitTable.java".
  */
 
 public class GalToLitTable {

@@ -1,7 +1,7 @@
-/*
+package Chapter01;/*
     Demonstrate the for loop.
 
-    Call this file ForDemo.java
+    Call this file Chapter01.ForDemo.java
  */
 
 public class ForDemo {

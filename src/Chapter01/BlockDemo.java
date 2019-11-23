@@ -1,7 +1,7 @@
-/*
+package Chapter01;/*
     Demonstrate a block of code.
 
-    Call this file BlockDemo.java.
+    Call this file Chapter01.BlockDemo.java.
  */
 
 public class BlockDemo {
